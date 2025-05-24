@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-timer/static/css/main.74fa748d.css",
+    "main.js": "/redux-timer/static/js/main.0731983b.js",
+    "index.html": "/redux-timer/index.html",
+    "main.74fa748d.css.map": "/redux-timer/static/css/main.74fa748d.css.map",
+    "main.0731983b.js.map": "/redux-timer/static/js/main.0731983b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74fa748d.css",
+    "static/js/main.0731983b.js"
+  ]
+}
